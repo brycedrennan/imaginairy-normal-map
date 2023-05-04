@@ -4,7 +4,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/estimating-and-exploiting-the-aleatoric/surface-normals-estimation-on-nyu-depth-v2-1)](https://paperswithcode.com/sota/surface-normals-estimation-on-nyu-depth-v2-1?p=estimating-and-exploiting-the-aleatoric)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/estimating-and-exploiting-the-aleatoric/surface-normals-estimation-on-scannetv2)](https://paperswithcode.com/sota/surface-normals-estimation-on-scannetv2?p=estimating-and-exploiting-the-aleatoric)
 
-<img width=45% src="tests/oval-office-large.jpg"><img width=45% src="tests/oval-office-large-normal.jpg">
+<img src="tests/oval-office-large.jpg" width=45% ><img src="tests/oval-office-large-normal.jpg" width=45%>
 
 **Quick Start**
 ```bash

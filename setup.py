@@ -20,8 +20,10 @@ with open("README.md", encoding="utf-8") as f:
 
 setup(
     name="imaginairy-normal-map",
-    version="0.0.1",
+    version="0.0.3",
     description="Image-to-normal-map ",
+    long_description=readme,
+    long_description_content_type="text/markdown",
     author="Bryce Drennan",
     # author_email="b r y p y d o t io",
     packages=find_packages(
